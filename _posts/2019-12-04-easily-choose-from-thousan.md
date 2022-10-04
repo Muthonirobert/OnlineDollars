@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Easily choose from thousan"
-date: 2019-12-04 12:37:13 +0600
-categories: [Technology]
+date: 2022-10-04 12:18:13 +0600
+categories: Technology
 author: ecuelass_chapman
 post_image: "/assets/images/slider/slider3.jpg"
 author: "Themefisher"
