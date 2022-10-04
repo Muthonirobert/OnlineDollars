@@ -3,17 +3,10 @@
 - text: Home
   url: /
 - text: Blog Posts
-  url: "#"
-  submenu:
-    - text: Standard Fullwidth
-      url: /the-best-soft-tropical-getaway.html
-    - text: Standard Left Sidebar
-      url: /free-wordpress-and-html-themes.html
-    - text: Standard Right Sidebar
-      url: /ingredient-cilantro-vinaigrette.html
+  url: /ingredient-cilantro-vinaigrette.html
 - text: About
   url: /about.html
 - text: Category
-  url: /category/design
+  url: /category/design/index.html
 - text: Contact
   url: /contact.html
