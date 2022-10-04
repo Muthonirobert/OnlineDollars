@@ -3,11 +3,10 @@
 - text: Home
   url: /
 - text: Blog Posts
-  url: /Standard Right Sidebar
       url: /ingredient-cilantro-vinaigrette.html
 - text: About
   url: /about.html
 - text: Category
-  url: /category/design
+  url: /category/design/index.html
 - text: Contact
   url: /contact.html
