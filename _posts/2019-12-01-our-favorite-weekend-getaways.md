@@ -3,7 +3,7 @@ layout: post
 title: "Our Favorite Weekend Getaways"
 date: 2019-12-01 20:37:13 +0600
 tags: technology lifestyle
-categories: [lifestyle]
+categories: lifestyle
 author: ecuelass_chapman
 post_image: "/assets/images/slider/slider3.jpg"
 author: "Robert"

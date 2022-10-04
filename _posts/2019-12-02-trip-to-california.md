@@ -3,7 +3,7 @@ layout: post
 title: "Trip to California"
 date: 2019-12-02 20:37:13 +0600
 tags: travel 
-categories: [travel]
+categories: travel
 author: ecuelass_chapman
 post_image: "/assets/images/slider/slider2.jpg"
 author: "Themefisher"

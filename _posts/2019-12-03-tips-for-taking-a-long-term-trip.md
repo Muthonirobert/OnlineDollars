@@ -2,7 +2,7 @@
 layout: post
 title: "Tips for Taking a Long-term Trip"
 date: 2019-12-03 12:37:13 +0600
-categories: [Technology]
+categories: Technology
 author: ecuelass_chapman
 post_image: "/assets/images/slider/slider3.jpg"
 author: "Themefisher"
