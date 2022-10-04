@@ -99,8 +99,9 @@ tag_permalink_style: pretty
 jekyll-archives:
   enabled: all
   layout: category
-  permalinks: /:categories/:title/
-    #category: "/category/:name/"
+  permalinks: 
+    category: "/category/:name/"
+    #/:categories/:title/
 
 feed:
   collections:
