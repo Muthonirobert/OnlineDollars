@@ -3,10 +3,7 @@
 - text: Home
   url: /
 - text: Blog Posts
-  url: "#"
-  submenu:
-    - 
-    - text: Standard Right Sidebar
+  url: /Standard Right Sidebar
       url: /ingredient-cilantro-vinaigrette.html
 - text: About
   url: /about.html
